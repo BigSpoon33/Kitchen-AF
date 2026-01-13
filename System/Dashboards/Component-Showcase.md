@@ -6,7 +6,7 @@ tags:
 cssclasses:
   - dashboard
 demo_toggle: false
-night_mode: false
+night_mode: true
 feature_enabled: false
 progress_value: 59
 water_intake: 2200

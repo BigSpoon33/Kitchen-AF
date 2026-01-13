@@ -4,12 +4,12 @@ tags:
   - configuration
 cssclasses:
   - dashboard
-widget-theme: default
-color-override: whiteCrane
+widget-theme: mewSpin
+color-override: redHawk
 flashy-mode: true
 widget-backgrounds: false
-__preview_toggle_on: true
-__preview_toggle_off: true
+__preview_toggle_on: false
+__preview_toggle_off: false
 ---
 
 # Settings

@@ -101,6 +101,101 @@ System/
 - Minimal Theme Settings
 - Style Settings
 
+## Showcase
+
+### Default Themes
+
+#### Theme Studio
+![Theme Studio With Basic Theme](Assets/ThemeStudio.png)
+
+---
+
+#### Bars
+![Bars With Basic Theme](Assets/Bars.png)
+
+---
+
+#### Toggles
+![Toggles With Basic Theme](Assets/Toggles.png)
+
+---
+
+#### Buttons
+![Buttons With Basic Theme](Assets/Buttons.png)
+
+---
+
+#### Selects
+![Selects With Basic Theme](Assets/Selects.png)
+
+---
+
+#### Inputs
+![Inputs With Basic Theme](Assets/Inputs.png)
+
+---
+
+#### Cards
+![Cards With Basic Theme](Assets/Cards.png)
+
+---
+
+#### Dials
+![Dials With Basic Theme](Assets/Dials.png)
+
+---
+
+#### Badges
+![Badges With Basic Theme](Assets/Badges.png)
+
+---
+
+#### Tabs
+![Tabs With Basic Theme](Assets/Tabs.png)
+
+---
+
+#### Gradients
+![Gradients With Basic Theme](Assets/Gradients.png)
+
+---
+
+#### Vertical Bars
+![VerticalBars With Basic Theme](Assets/VerticalBars.png)
+
+---
+
+### Flashy Themes (DIY)
+
+#### Bars
+![Bars With Custom Theme](Assets/Bars.mp4)
+
+---
+
+#### Toggles
+![TogglesWith Custom Theme](Assets/Toggles.mp4)
+
+---
+
+#### Buttons
+![Buttons With Custom Theme](Assets/Buttons.mp4)
+
+---
+
+#### Selects and Inputs
+![Selects and Inputs With Custom Theme](Assets/SelectandInputs.mp4)
+
+---
+
+#### Switching Themes
+![Switching Themes With Custom Theme](Assets/ThemeSwitch.mp4)
+
+
+
 ## Credits
 
 Created by Rice AF (more like Potato AF)
+
+
+
+
