@@ -1,7 +1,11 @@
-# Obsidian internal folder
+# Obsidian internal files
 .obsidian/workspace.json
 .obsidian/last-state.json
+.obsidian/plugins/
 
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# User-specific files
+GokuShenron.png
